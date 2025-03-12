@@ -1,4 +1,4 @@
-# 🚀 C++ Project Setup & Run Guide
+# 🚀 C++ Hello World
 
 ## 📥 1. Install g++
 Sebelum menjalankan proyek ini, pastikan **g++** sudah terinstal.  
@@ -23,7 +23,7 @@ brew install gcc
 
 ## 🔗 2. Clone Repository
 ```sh
-git clone https://github.com/username/repository.git
+git git clone https://github.com/3ggie-AB/cpp-helloworld.git
 cd repository
 ```
 ## ▶️ 3. Jalankan Program
